@@ -29,6 +29,7 @@ As informações coletadas são usadas para:
 * Os dados são armazenados em \[especifique: arquivos locais / banco de dados]
 * Utilizamos práticas básicas de segurança
 * Você pode solicitar a exclusão dos dados do seu servidor a qualquer momento
+* **Todos os dados sobre servidor ou membros são apagados imediatamente quando o bot ou o membro é expulso/banido.**
 
 ## 4. Exclusão de dados
 
