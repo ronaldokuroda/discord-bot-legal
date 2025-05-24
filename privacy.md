@@ -1,51 +1,48 @@
 # 🔒 Política de Privacidade do Bot
 
-Última atualização: 24/05/2025
+**Última atualização:** 24/05/2025
 
--1. Informações que coletamos
+## 1. Informações que coletamos
 
-Nosso bot pode coletar as seguintes informações apenas quando necessário para seu funcionamento:
+Nosso bot pode coletar as seguintes informações **apenas quando necessário** para seu funcionamento:
 
-ID do servidor (guild.id)
+* ID do servidor (`guild.id`)
+* ID dos canais onde comandos são executados
+* ID de usuários (quando interagem com comandos)
+* Preferências de configuração (salvas por servidor)
+* Logs básicos de uso (opcional)
 
-ID dos canais onde comandos são executados
+> **Nunca coletamos mensagens privadas, senhas ou conteúdos confidenciais.**
 
-ID de usuários (quando interagem com comandos)
-
-Preferências de configuração (salvas por servidor)
-
-Logs básicos de uso (opcional)
-
-Nunca coletamos mensagens privadas, senhas ou conteúdos confidenciais.
-
--2. Como usamos as informações
+## 2. Como usamos as informações
 
 As informações coletadas são usadas para:
 
-Executar comandos personalizados
+* Executar comandos personalizados
+* Armazenar configurações por servidor
+* Melhorar a experiência de uso
 
-Armazenar configurações por servidor
+**Não compartilhamos seus dados com terceiros.**
 
-Melhorar a experiência de uso
+## 3. Armazenamento e Segurança
 
-Não compartilhamos seus dados com terceiros.
+* Os dados são armazenados em \[especifique: arquivos locais / banco de dados]
+* Utilizamos práticas básicas de segurança
+* Você pode solicitar a exclusão dos dados do seu servidor a qualquer momento
 
--3. Armazenamento e Segurança
+## 4. Exclusão de dados
 
-Os dados são armazenados em [especifique: arquivos locais / banco de dados]
+Para solicitar a exclusão dos dados do seu servidor, envie um comando `/delete-data` (caso implementado) ou entre em contato conosco através de \[seu email ou servidor de suporte].
 
-Utilizamos práticas básicas de segurança
-
-Você pode solicitar a exclusão dos dados do seu servidor a qualquer momento
-
--4. Exclusão de dados
-
-Para solicitar a exclusão dos dados do seu servidor, envie um comando /delete-data (caso implementado) ou entre em contato conosco através de [seu email ou servidor de suporte].
-
--5. Contato
+## 5. Contato
 
 Para dúvidas ou solicitações, entre em contato:
 
-Email: seuemail@exemplo.com
+* Email: `seuemail@exemplo.com`
+* Servidor de suporte: \[link do servidor]
 
-Servidor de suporte: [link do servidor]
+---
+
+### ⚠️ Aviso Legal:
+
+Este é um modelo genérico e **não substitui consultoria jurídica profissional**. Se seu bot armazena dados sensíveis ou opera em escala comercial, é altamente recomendável consultar um advogado.
