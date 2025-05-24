@@ -10,8 +10,12 @@ Ao adicionar e utilizar nosso bot em seu servidor do Discord, você concorda com
 
 Nosso bot oferece funcionalidades como:
 
-* \[Descreva as funções principais: ex. moderação, música, integração, etc.]
-* Personalizações específicas por servidor
+* Criar Embeds com webhook usando a imagem e nome do perfil do servidor
+* Banir membros
+* Castigar membros
+* Advertir um membro com tags [advertencia 1, advertencia 2 e advertencia 3]
+* Sistema de pontos (tempo que membros estão em call e quantidade de mensagem enviadas, menos links e fotos.
+* Sistema /clearall onde limpa o chat com mensagens de até 1 ano (somente o dono so servidor pode usar)
 * Comandos de interação
 
 As funcionalidades podem mudar a qualquer momento sem aviso prévio.
