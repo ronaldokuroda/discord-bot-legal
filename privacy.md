@@ -26,7 +26,7 @@ As informações coletadas são usadas para:
 
 ## 3. Armazenamento e Segurança
 
-* Os dados são armazenados em \[especifique: arquivos locais / banco de dados]
+* Os dados são armazenados em nosso servidor
 * Utilizamos práticas básicas de segurança
 * Você pode solicitar a exclusão dos dados do seu servidor a qualquer momento
 * **Todos os dados sobre servidor ou membros são apagados imediatamente quando o bot ou o membro é expulso/banido.**
@@ -41,9 +41,3 @@ Para dúvidas ou solicitações, entre em contato:
 
 * Email: `seuemail@exemplo.com`
 * Servidor de suporte: \[link do servidor]
-
----
-
-### ⚠️ Aviso Legal:
-
-Este é um modelo genérico e **não substitui consultoria jurídica profissional**. Se seu bot armazena dados sensíveis ou opera em escala comercial, é altamente recomendável consultar um advogado.
