@@ -1,18 +1,51 @@
-# Política de Privacidade
+# 🔒 Política de Privacidade do Bot
 
-Este bot coleta dados mínimos para funcionar corretamente. Isso pode incluir:
+Última atualização: 24/05/2025
 
-- IDs de usuários, mensagens ou servidores
-- Configurações personalizadas
+-1. Informações que coletamos
 
-Esses dados:
-- Nunca são compartilhados com terceiros
-- Podem ser removidos mediante solicitação pelo responsável do servidor
+Nosso bot pode coletar as seguintes informações apenas quando necessário para seu funcionamento:
 
-Armazenamento:
-- Os dados são armazenados localmente/em um banco seguro
+ID do servidor (guild.id)
 
-Contato:
-- Para dúvidas, entre em contato: [seu email ou servidor de suporte]
+ID dos canais onde comandos são executados
 
-Última atualização: 24 de Maio de 2025
+ID de usuários (quando interagem com comandos)
+
+Preferências de configuração (salvas por servidor)
+
+Logs básicos de uso (opcional)
+
+Nunca coletamos mensagens privadas, senhas ou conteúdos confidenciais.
+
+-2. Como usamos as informações
+
+As informações coletadas são usadas para:
+
+Executar comandos personalizados
+
+Armazenar configurações por servidor
+
+Melhorar a experiência de uso
+
+Não compartilhamos seus dados com terceiros.
+
+-3. Armazenamento e Segurança
+
+Os dados são armazenados em [especifique: arquivos locais / banco de dados]
+
+Utilizamos práticas básicas de segurança
+
+Você pode solicitar a exclusão dos dados do seu servidor a qualquer momento
+
+-4. Exclusão de dados
+
+Para solicitar a exclusão dos dados do seu servidor, envie um comando /delete-data (caso implementado) ou entre em contato conosco através de [seu email ou servidor de suporte].
+
+-5. Contato
+
+Para dúvidas ou solicitações, entre em contato:
+
+Email: seuemail@exemplo.com
+
+Servidor de suporte: [link do servidor]
